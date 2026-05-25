@@ -57,13 +57,13 @@ We executed the full suite of verification tests to ensure algorithm compliance.
 Running the kinematics test successfully produced the following visualizations:
 
 1. **Gait Amplitude Envelope:** Shows how the joint oscillation amplitude is dampened near the head to ensure camera/sensor stability.
-   ![Gait amplitude envelope curves comparing standard serpentine motion with sigmoid-dampened head stabilization, showing reduced amplitude near the head and fuller amplitude toward the tail]("D:\IITbwb\snake robot\new souce code\gait_amplitude_envelope.png")
+   ![Gait Amplitude Envelope Comparison]("gait_amplitude_envelope.png")
 
 2. **3D Snake Robot Configuration:** Reconstructs the 3D spatial curve of the snake robot body under serpentine and Sigmoid-dampened motion. Notice the stabilized (straightened) head segment of the Sigmoid snake at the tail-to-head transition.
-   ![Three-dimensional snake robot body reconstruction with serpentine and sigmoid-dampened motion, highlighting a straighter head segment and a curved tail in coordinate space](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/snake_3d_shapes.png)
+   ![3D Snake Robot Configuration](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/snake_3d_shapes.png)
 
 3. **Alternate Link Kinematics:** Shows the 6th-order polynomial mapping between the actuated joint angle and the passive scale link orientation.
-   ![Graph showing the alternate link kinematics polynomial mapping between actuated joint angle theta and passive link orientation phi, with labeled axes and a visible data curve](D:\IITbwb\snake robot\new souce code\alternate_link_kinematics.png)
+   ![Alternate Link Kinematics]("D:\IITbwb\snake robot\Snake-Robot\alternate_link_kinematics.png")
 
 ---
 
@@ -76,10 +76,10 @@ Evaluating the A* path planner and double-stage smoothing produced the following
 | **Path Corners** | 7 | 2 | **71.43% Reduction** | $\ge 25\%$ |
 
 1. **Planning and Smoothing Comparison:** Shows the jagged traditional A* search compared to the highly optimized, corner-pruned, and LOWESS-smoothed final path.
-   ![Comparison of traditional A-star and improved smoothed path planning on a grid with obstacles, with the improved path shown as a cleaner curve and the traditional path as jagged segments](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/path_planning_comparison.png)
+   ![Path Planning Comparison](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/path_planning_comparison.png)
 
 2. **Path Sinusoid Fitting:** Demonstrates how the smoothed path coordinates fit the sinusoidal path model ($R^2 \approx 1.0$), which is subsequently mapped back into joint servo control signals.
-   ![Smoothed path coordinates overlaid with a fitted sinusoidal curve, illustrating high goodness of fit for path parameter mapping with axes labeled to show spatial position](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/path_sinusoid_fitting.png)
+   ![Path Sinusoidal Fitting](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/path_sinusoid_fitting.png)
 
 ---
 
