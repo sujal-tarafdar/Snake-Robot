@@ -57,13 +57,13 @@ We executed the full suite of verification tests to ensure algorithm compliance.
 Running the kinematics test successfully produced the following visualizations:
 
 1. **Gait Amplitude Envelope:** Shows how the joint oscillation amplitude is dampened near the head to ensure camera/sensor stability.
-   ![Gait Amplitude Envelope Comparison](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/gait_amplitude_envelope.png)
+   ![Gait Amplitude Envelope Comparison](D:\IITbwb\snake robot\new souce code\gait_amplitude_envelope.png)
 
 2. **3D Snake Robot Configuration:** Reconstructs the 3D spatial curve of the snake robot body under serpentine and Sigmoid-dampened motion. Notice the stabilized (straightened) head segment of the Sigmoid snake at the tail-to-head transition.
    ![3D Snake Robot Configuration](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/snake_3d_shapes.png)
 
 3. **Alternate Link Kinematics:** Shows the 6th-order polynomial mapping between the actuated joint angle and the passive scale link orientation.
-   ![Alternate Link Kinematics](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/alternate_link_kinematics.png)
+   ![Alternate Link Kinematics](D:\IITbwb\snake robot\new souce code\alternate_link_kinematics.png)
 
 ---
 
