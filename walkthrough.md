@@ -63,7 +63,7 @@ Running the kinematics test successfully produced the following visualizations:
    ![3D Snake Robot Configuration](C:/Users/sujal/.gemini/antigravity/brain/5cbda28f-39bb-4645-ae0c-f74edff545f8/snake_3d_shapes.png)
 
 3. **Alternate Link Kinematics:** Shows the 6th-order polynomial mapping between the actuated joint angle and the passive scale link orientation.
-   ![Alternate Link Kinematics]("D:\IITbwb\snake robot\Snake-Robot\alternate_link_kinematics.png")
+   ![Alternate Link Kinematics](alternate_link_kinematics.png)
 
 ---
 
