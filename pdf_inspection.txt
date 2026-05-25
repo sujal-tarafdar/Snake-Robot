@@ -1,0 +1,325 @@
+PDF Path: d:\IITbwb\snake robot\sanke robot.pdf
+Number of Pages: 60
+
+--- Metadata ---
+/CreationDate: D:20250822005858+02'00'
+/Creator: Adobe InDesign 18.3 (Windows)
+/CrossMarkDomains[1]: springer.com
+/CrossMarkDomains[2]: springerlink.com
+/CrossmarkDomainExclusive: true
+/CrossmarkMajorVersionDate: 2010-04-23
+/ModDate: D:20250822035107+02'00'
+/Producer: Adobe PDF Library 17.0; modified using iText® 5.5.13.4 ©2000-2024 iText Group NV (SPRINGER SBM; licensed version)
+/Trapped: /False
+/doi: 10.1007/s10791-025-09662-7
+
+--- Outline/TOC ---
+{'/Title': '\ufeffSnake-shaped robot design and path planning algorithm', '/Page': IndirectObject(4350, 0, 2241717666880), '/Type': '/XYZ', '/Left': 56, '/Top': 674, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 48, '/%is_open%': True}
+[{'/Title': '\ufeffAbstract', '/Page': IndirectObject(4350, 0, 2241717666880), '/Type': '/XYZ', '/Left': 184, '/Top': 572, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff1\ufeff \ufeffIntroduction', '/Page': IndirectObject(4350, 0, 2241717666880), '/Type': '/XYZ', '/Left': 178, '/Top': 339, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff2\ufeff \ufeffResearch status of motor locomotion', '/Page': IndirectObject(3, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 374, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 2, '/%is_open%': True}, [{'/Title': '\ufeff2.1\ufeff \ufeffStudy of motor locomotion', '/Page': IndirectObject(3, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 359, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff2.2\ufeff \ufeffResearch on the path-planning algorithm', '/Page': IndirectObject(41, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 226, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}], {'/Title': '\ufeff3\ufeff \ufeffSerpentine robot design', '/Page': IndirectObject(63, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 247, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 6, '/%is_open%': True}, [{'/Title': '\ufeff3.1\ufeff \ufeffIntroduction', '/Page': IndirectObject(63, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 231, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff3.2\ufeff \ufeffSpentine robot connection structure', '/Page': IndirectObject(85, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 269, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff3.3\ufeff \ufeffJoint module of the snake-shaped robot', '/Page': IndirectObject(115, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 285, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 3, '/%is_open%': True}, [{'/Title': '\ufeff3.3.1\ufeff \ufeffHead joint module', '/Page': IndirectObject(115, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 172, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff3.3.2\ufeff \ufeffSnake body joint module', '/Page': IndirectObject(127, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 291, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff3.3.3\ufeff \ufeffIntroduction of the snake-tail joint module', '/Page': IndirectObject(156, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 206, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}]], {'/Title': '\ufeff3.4\ufeff \ufeffOverall introduction of the serpentine robot', '/Page': IndirectObject(186, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 342, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff4\ufeff \ufeffAnalysis of the serpentine locomotion of the serpentine robot', '/Page': IndirectObject(197, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 381, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 3, '/%is_open%': True}, [{'/Title': '\ufeff4.1\ufeff \ufeffKinematic model of the serpentine robot', '/Page': IndirectObject(197, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 267, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 2, '/%is_open%': True}, [{'/Title': '\ufeff4.1.1\ufeff \ufeffD-H parameter method', '/Page': IndirectObject(197, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 125, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff4.1.2\ufeff \ufeffKinematic modeling of serpentine robots', '/Page': IndirectObject(413, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 545, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}]], {'/Title': '\ufeff4.2\ufeff \ufeffTheoretical analysis of the winding movement of the snake robot', '/Page': IndirectObject(566, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 190, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 2, '/%is_open%': True}, [{'/Title': '\ufeff4.2.1\ufeff \ufeffSerpenoid serpentine curve', '/Page': IndirectObject(837, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 628, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff4.2.2\ufeff \ufeffSerpentine motion control function', '/Page': IndirectObject(973, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 340, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}], {'/Title': '\ufeff4.3\ufeff \ufeffSimulation analysis of snake robot', '/Page': IndirectObject(1205, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 670, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 2, '/%is_open%': True}, [{'/Title': '\ufeff4.3.1\ufeff \ufeffSnake-shaped machine simulation modeling based on ADAMS software', '/Page': IndirectObject(1205, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 656, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff4.3.2\ufeff \ufeffSimulation of the snake-shaped robot with serpentine locomotion', '/Page': IndirectObject(1205, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 486, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}], {'/Title': '\ufeff4.4\ufeff \ufeffAnalysis and optimization of the serpentine locomotion control function', '/Page': IndirectObject(1583, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 217, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 2, '/%is_open%': True}, [{'/Title': '\ufeff4.4.1\ufeff \ufeffFitting method of common data', '/Page': IndirectObject(1605, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 713, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff4.4.2\ufeff \ufeffAnalysis and optimization of serpentine locomotion control function', '/Page': IndirectObject(1611, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 585, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}], {'/Title': '\ufeff5\ufeff \ufeffSerpentine locomotion path planning based on the modified A * algorithm', '/Page': IndirectObject(1924, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 523, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 7, '/%is_open%': True}, [{'/Title': '\ufeff5.1\ufeff \ufeffPrinciples of the traditional A * algorithm', '/Page': IndirectObject(1924, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 281, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff5.2\ufeff \ufeffEnvironment modeling and simulation experiment of the traditional A * algorithm', '/Page': IndirectObject(2315, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 434, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff5.3\ufeff \ufeffImprove the A algorithm', '/Page': IndirectObject(2383, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 152, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 4, '/%is_open%': True}, [{'/Title': '\ufeff5.3.1\ufeff \ufeffImprovement of the heuristic function formula', '/Page': IndirectObject(2389, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 236, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff5.3.2\ufeff \ufeffRedundant corner optimization', '/Page': IndirectObject(2538, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 713, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff5.3.3\ufeff \ufeffPath smoothing processing', '/Page': IndirectObject(2562, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 508, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff5.3.4\ufeff \ufeffSystem performance assurance mechanism analysis', '/Page': IndirectObject(2797, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 119, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}]], {'/Title': '\ufeff5.4\ufeff \ufeffJoint simulation of ADAMS and MATLAB', '/Page': IndirectObject(2808, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 345, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 3, '/%is_open%': True}, [{'/Title': '\ufeff5.4.1\ufeff \ufeffConstruction of the joint simulation model', '/Page': IndirectObject(2808, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 260, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff5.4.2\ufeff \ufeffJoint simulation of the path planning of the serpentine robot', '/Page': IndirectObject(2838, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 214, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff5.4.3\ufeff \ufeffComparative experiments and results discussion', '/Page': IndirectObject(2988, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 642, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}], {'/Title': '\ufeff6\ufeff \ufeffSerpentine robot prototype experiment', '/Page': IndirectObject(2994, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 501, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 7, '/%is_open%': True}, [{'/Title': '\ufeff6.1\ufeff \ufeffDebugging of the software', '/Page': IndirectObject(2994, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 387, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff6.2\ufeff \ufeffParameter settings and tuning guidelines', '/Page': IndirectObject(2994, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 146, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff6.3\ufeff \ufeffActual robot or actual robot experiment and simulation results', '/Page': IndirectObject(3041, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 480, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 4, '/%is_open%': True}, [{'/Title': '\ufeff6.3.1\ufeff \ufeffExperimental verification of serpentine locomotion gait', '/Page': IndirectObject(3041, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 338, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff6.3.2\ufeff \ufeffExperimental verification of obstacle avoidance in path planning', '/Page': IndirectObject(3216, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 208, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff6.3.3\ufeff \ufeffPrototype motion trajectory and posture error analysis', '/Page': IndirectObject(3250, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 410, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeff6.3.4\ufeff \ufeffQuantitative analysis of prototype motion experiments', '/Page': IndirectObject(3258, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 479, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}]], {'/Title': '\ufeff7\ufeff \ufeffConclusion and future works', '/Page': IndirectObject(3265, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 289, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}, {'/Title': '\ufeffReferences', '/Page': IndirectObject(3273, 0, 2241717666880), '/Type': '/XYZ', '/Left': 117, '/Top': 268, '/Zoom': NullObject, '/C': [0.0, 0.0, 0.0], '/F': 0, '/Count': 0, '/%is_open%': True}]
+
+--- FIRST 3 PAGES ---
+
+--- PAGE 1 ---
+RESEARCH Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
+License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate 
+credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. 
+You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party 
+material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material 
+is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p : /  / c r e a  t i v e c o  m m o n  s . o r g  / l i c e  n s 
+e s / b  y - n c  - n d / 4 . 0 /.
+Guang-hui and Wan-sheng Discover Computing          (2025) 28:177 
+https://doi.org/10.1007/s10791-025-09662-7
+*Correspondence:
+Cheng Wan-sheng
+18840661211@163.com
+1School of Electronic Engineering, 
+University of Science and 
+Technology, 114051, Liaoning, 
+China
+Snake-shaped robot design and path planning 
+algorithm
+Zhao Guang-hui1 and Cheng Wan-sheng1*
+1 Introduction
+Snake robots have garnered considerable attention as versatile platforms for traversing 
+uneven and unstructured terrains, drawing on the undulatory locomotion patterns of 
+their biological counterparts. Constructed from serially linked modules capable of coor -
+dinated multi-degree-of-freedom motion, these platforms deliver a level of navigational 
+adaptability unmatched by conventional wheeled or legged systems. Early biomechanical 
+studies from the mid-twentieth century laid the foundation for this field by elucidating 
+the wave-propagation mechanisms that underlie serpentine locomotion [1– 4].
+In the past decade, researchers have introduced a variety of mathematical and algo -
+rithmic frameworks to capture and control the kinematics of snake robots. Planar ser -
+pentine gait models [ 5] have formalized the role of curvature and phase shifting, while 
+three-dimensional gait formulations have extended these insights into complex spatial 
+environments. On the control front, techniques such as straight-path following [ 6] and 
+reactive obstacle avoidance [7] have delivered robust real-time performance in cluttered 
+Discover Computing
+Abstract
+Serpentine robots have broad application prospects in civilian, military, and 
+other fields. However, recent developments in serpentine robot design, recent 
+developments in snake-like robot design, mostly based on traditional algorithms, face 
+several challenges in path planning and mapping. This study focuses on the snaking 
+gait characteristics and proposes an improved path planning algorithm integrated 
+with the robot’s mechanical design. The algorithm’s effectiveness is validated through 
+simulation analysis. A functional relationship between the Serpentine locomotion 
+control parameters and the motion shape parameters is established, enabling 
+Serpentine locomotion path planning on the map based on the improved algorithm. 
+The rationality and effectiveness of the proposed algorithm are verified through 
+both simulation analysis and experimental validation. Real-world experiments are 
+conducted using the developed snake robot prototype, and the results are compared 
+with simulation outcomes. The findings confirm the rationality and effectiveness of 
+the winding gait generation and path planning for obstacle avoidance, as well as the 
+consistency between simulation and physical experimental results.
+Keywords Serpentine robot, Serpentine locomotion, Path planning, Joint simulation
+
+--- PAGE 2 ---
+Page 2 of 60
+Guang-hui and Wan-sheng Discover Computing          (2025) 28:177 
+settings. Path-planning strategies have likewise diversified, from grid-based A* search 
+variants to sampling-based methods like RRT* [ 8], and to learning-based schemes 
+employing Deep Q-Networks (DQN) or Proximal Policy Optimization (PPO) [ 9, 10]. 
+Hybrid approaches, for example the Sine Resistance Network (SRN) [ 11], have further 
+demonstrated the ability to negotiate dynamic obstacles by blending impedance modu -
+lation with curvature control.
+Despite these advances, existing methods present trade-offs: model-based planners 
+often incur high computational loads or yield suboptimal smoothness; reinforcement-
+learning solutions require extensive training data and struggle with generalization across 
+varying terrains; and SRN-style controllers, while agile, depend on precise force feed -
+back that may be unavailable in resource-constrained platforms.
+In this work, we introduce an optimized A*-based path planning algorithm tailored to 
+the unique serpentine movement constraints of snake robots, augmented by a self-adap -
+tive control parameter adjustment mechanism. Unlike classical A* variants, our method 
+incorporates turning-cost and curvature constraints directly into the heuristic evalua -
+tion, reducing unnecessary detours and smoothing the resulting trajectory. Compared 
+to reinforcement-learning and SRN approaches, our algorithm achieves comparable 
+obstacle-avoidance performance with significantly lower runtime and without reliance 
+on extensive training or force-sensor feedback. Simulation and prototype experiments 
+confirm that our approach maintains path fidelity within a 5% time–error margin while 
+running on embedded hardware with limited computational resources, thus offering 
+a practical solution for high-degree-of-freedom, multi-joint snake robots operating in 
+dynamic, unstructured environments.
+2 Research status of motor locomotion
+2.1 Study of motor locomotion
+Biological snakes adapt their locomotive patterns to suit different environments, a ver -
+satility that has driven the development of highly adaptive serpentine robots. Decentral -
+ized control mechanisms may hold the key to reproducing these behaviors in modular 
+robots [8– 10]. Foundational studies of snake biomechanics and propulsion modes have 
+established the basis for modern snake‐robot gait design.
+The most common terrestrial snake gait is serpentine locomotion, also known as the 
+transverse wave gait [ 11, 12]. In this mode, the snake’s body forms a continuous sinu -
+soidal curve, and at least three points of contact with the ground are required—two to 
+generate thrust and one to balance forces—while the scales provide directional friction 
+(Fig. 1a). When external objects aid movement by providing additional thrust points, the 
+behavior is termed obstacle‐aided locomotion [ 13, 14]. Heckrott et al. [ 13] showed that 
+the speed of serpentine locomotion depends on the density of these thrust points in the 
+environment. However, this gait is ineffective on very smooth or very narrow surfaces 
+and for short‐bodied snakes, which cannot conform to the desired curvature.
+Another specialized mode is the rectilinear drum-organ gait, in which segments of the 
+body alternately anchor and advance (Fig.  1b). Although slower and less efficient due 
+to static friction and momentum changes, this gait allows snakes to traverse extremely 
+confined spaces such as pipes, wires, and branches [ 15, 17]. Jayne et al. [18] further sub-
+divided drum-organ locomotion into four types—flat, tunnel, alternating tree-like, and 
+spiral tree-like—highlighting its adaptability in environments where other gaits fail [ 19].
+--- PAGE 3 ---
+Page 3 of 60
+Guang-hui and Wan-sheng Discover Computing          (2025) 28:177 
+Another well‐known snake gait is rectilinear locomotion, a slow peristaltic motion 
+in which the skin advances relative to the underlying skeleton (Fig.  2). Marvi et al. [ 20] 
+analyzed the body‐shape changes and muscle mechanics underlying this gait, demon -
+strating that forward propulsion arises from alternating contractions and relaxations of 
+the rib muscles attached to the elastic skin [ 21, 22]. During each cycle, snakes maintain 
+full‐body contact with the ground: the abdominal skin pulls forward, drawing the ven -
+tral scales together, then presses downward so that the scales grip the substrate. Once 
+anchored, the rest of the body is drawn forward over the fixed skin until the next cycle 
+begins. This mode requires only minimal vertical displacement, making it especially 
+effective in narrow tunnels and low‐clearance environments [23, 24].
+2.2 Research on the path-planning algorithm
+Robot path planning has long stood as a cornerstone challenge in robotics [ 25– 27]. At 
+its core, the problem requires a robot to compute an optimal or near-optimal trajectory 
+from a given start to goal location, balancing criteria such as path length, smoothness, 
+safety margin, and computational efficiency. In mobile platforms, effective planners not 
+only reduce traversal time and energy consumption but also minimize mechanical wear 
+and operational costs [28].
+Over the years, a rich spectrum of planning methods has emerged. Graph-based 
+search algorithms—epitomized by A*—guarantee optimality on discretized maps but 
+often ignore turning costs and clearance requirements, leading to convoluted routes. 
+To address this, Sang et al. [ 29] augmented A* with a turn-cost term and pruned nodes 
+near obstacles, thereby reducing detours and improving safety. Evolutionary approaches, 
+Fig. 2 Rectilinear locomotion (above) and trajectory (below)
+ 
+Fig. 1 a Transverse wave movement, b Drum and organ movement
+ 
+--- LAST 3 PAGES ---
+
+--- PAGE 58 ---
+Page 58 of 60
+Guang-hui and Wan-sheng Discover Computing          (2025) 28:177 
+(2) In this paper for the winding movement of the snake robot, using D-H method to 
+establish the snake robot kinematics model, established the snake robot model in 
+ADAMS software, and the Serpentine motion control function and combined with 
+Sigmoid function of motion control function improved motion simulation, analysis of 
+the control parameters of the influence of the serpentine robot winding movement.
+(3) This paper adopts the binary quadratic polynomial fitting method between the 
+control parameters and the shape parameters of the motion path. The optimized fit is 
+performed, and the functional relationship between them is obtained, which provides 
+a theoretical basis for the subsequent study of serpentine robot path planning.
+(4) In view of the planning requirements of the Serpentine locomotion path of the 
+snake robot, this paper improves the search range of the traditional A * algorithm, 
+the number of redundant corners and the degree of path smoothness and finally 
+obtains the planning path that meets the requirements of the Serpentine locomotion. 
+In addition, this paper uses ADAMS and MATLAB software to establish a joint 
+simulation model on the variable amplitude path and turning path involved in the 
+Serpentine locomotion path, to verify the rationality of the improved A * algorithm.
+(5) In this paper, the correctness and effectiveness of the winding movement gait of the 
+snake robot and the path planning obstacle avoidance movement are verified.
+In this study, although optimization strategies based on the improved A* algorithm and 
+adaptive control parameter methods were proposed to address autonomous path plan -
+ning and serpentine motion control of snake-like robots in complex environments, sev -
+eral major challenges were still encountered during theoretical derivation, simulation 
+validation, and physical prototype implementation:
+First, in the path planning phase, balancing path smoothness and obstacle avoidance 
+safety remains a significant and complex technical challenge. Overemphasis on smooth -
+ness may cause the robot to approach obstacle boundaries, increasing collision risk, 
+whereas prioritizing safety margins alone may lead to sharp curvature variations, reduc -
+ing the stability of serpentine locomotion. Therefore, dynamic trade-offs between curva-
+ture and safety redundancy parameters must be carefully designed in path optimization.
+Second, in serpentine motion control, due to the multi-degree-of-freedom and multi-
+joint coordinated motion characteristics of snake-like robots, there exists complex 
+dynamic coupling between different joints. Achieving synchronized joint angle varia -
+tions while maintaining the continuity and stability of the overall posture, especially dur-
+ing sharp path curvature changes, requires the motion control system to possess high 
+responsiveness and strong adaptive capabilities.
+Third, a certain gap exists between theoretical modeling and physical execution. In 
+simulations, assumptions such as frictionless surfaces, ideal joints, and perfect path 
+tracking are typically made. However, the physical snake-like robot is subject to practical 
+limitations including joint actuation precision, link rigidity, and variable ground friction, 
+leading to deviations between theoretical predictions and actual performance. Conse -
+quently, it is necessary to incorporate fault-tolerance mechanisms into the motion con -
+trol strategy and perform multiple rounds of field calibration and parameter tuning to 
+achieve the desired path tracking and locomotion stability.
+Moreover, this study focused on two-dimensional planar path planning. Extension to 
+three-dimensional complex terrains (e.g., slopes, undulating surfaces) remains an area 
+for future research. Future work will explore the integration of 3D terrain perception 
+--- PAGE 59 ---
+Page 59 of 60
+Guang-hui and Wan-sheng Discover Computing          (2025) 28:177 
+and adaptive trajectory generation techniques to further enhance the environmental 
+adaptability of snake-like robots.
+In the end, through simulation analysis and experimental verification, the expected 
+research results are obtained, and many problems involved in the snake robot are of 
+great research value, so the following prospects are made below.
+(1) The snake-shaped robot designed in this paper is only equipped with a camera, which 
+is mainly used for image information collection, which is convenient for the operators 
+to make decisions. It is expected that more sensors can be equipped in the future, to 
+improve the functionality of the snake-shaped robot.
+(2) In this paper, the path planned by the improved A * algorithm is close to the obstacle, 
+which is expected to further improve the algorithm and improve the robustness of the 
+algorithm.
+(3) The path planning in this paper requires prior map information, and the real-time 
+path planning of visual SLAM based on camera or lidar can be realized in the future.
+Author contributions
+Authors Zhao Guang-hui, and CHENG Wan-sheng are equally contributed for research investigation, conceptualization, 
+analysis, methodology, software, validation, funding support, and manuscript draft, and review.
+Funding
+There is no external funding support for this work.
+Data availability
+Author declares that data used in this paper is available to this manuscript. Corresponding author will share the data in a 
+reasonable request.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 10 March 2025 / Accepted: 18 June 2025
+References
+1. Hayashi R, Osuka K, Ono T. Trajectory control of an air cushion vehicle//Proceedings of IEEE/RSJ International Conference 
+on Intelligent Robots and Systems (IROS'94). IEEE, 1994, 3: 1906–1913.
+2. Pratt J, Chew CM, Torres A, et al. Virtual model control: an intuitive approach for bipedal locomotion. Int J Robot Res. 
+2001;20(2):129–43.
+3. Westervelt ER, Grizzle JW, Koditschek DE. Hybrid zero dynamics of planar biped walkers. IEEE Trans Automat Control. 
+2003;48(1):42–56.
+4. Fukuoka Y, Kimura H, Cohen AH. Adaptive dynamic walking of a quadruped robot on irregular terrain based on biological 
+concepts. Int J Robot Res. 2003;22(3–4):187–202.
+5. Shen WM, Krivokon M, Chiu H, et al. Multimode locomotion via SuperBot reconfigurable robots. Auton Robot. 
+2006;20:165–77.
+6. Ye C, Ma S, Li B, et al. Modular universal unit for a snake-like robot and reconfigurable robots. Adv Robotics. 
+2009;23(7–8):865–87.
+7. Xiao X, Murphy R. A review on snake robot testbeds in granular and restricted maneuverability spaces. Robot Auton Syst. 
+2018;110:160–72.
+8. Kano T, Sato T, Kobayashi R, et al. Local reflexive mechanisms essential for snakes’ scaffold-based locomotion. Bioinspir 
+Biomim. 2012;7(4): 046008.
+9. Jayne BC. Muscular mechanisms of snake locomotion: an electromyographic study of lateral undulation of the Florida 
+banded water snake (Nerodia fasciata) and the yellow rat snake (Elaphe obsoleta). J Morphol. 1988;197(2):159–81.
+10. Moon BR, Gans C. Kinematics, muscular activity and propulsion in gopher snakes. J Exp Biol. 1998;201(19):2669–84.
+11. Travers M, Whitman J, Choset H. Shape-based coordination in locomotion control. Int J Robotics Res. 2018;37(10):1253–68.
+12. Kamegawa T, Kuroki R, Gofuku A. Evaluation of snake robot’s behavior using randomized EARLI in crowded obsta-
+cles//2014 IEEE International Symposium on Safety, Security, and Rescue Robotics. IEEE. 2014;2014:1–6.
+--- PAGE 60 ---
+Page 60 of 60
+Guang-hui and Wan-sheng Discover Computing          (2025) 28:177 
+13. Heckrotte C. Relations of body temperature, size, and crawling speed of the common garter snake. Thamnophis s sirtalis 
+Copeia. 1967;4:759–63.
+14. Jayne BC. Muscular mechanisms of snake locomotion: an electromyographic study of the sidewinding and concertina 
+modes of Crotalus cerastes, Nerodia fasciata and Elaphe obsoleta. J Exp Biol. 1988;140(1):1–33.
+15. Jayne BC, Davis JD. Kinematics and performance capacity for the concertina locomotion of a snake (Coluber constrictor). J 
+Exp Biol. 1991;156(1):539–56.
+16. Jayne BC. What defines different modes of snake locomotion? Integr Comp Biol. 2020;60(1):156–70.
+17. Gray J. The mechanism of locomotion in snakes. J Exp Biol. 1946;23(2):101–20.
+18. Casal A, Yim MH. Self-reconfiguration planning for a class of modular robots//sensor fusion and decentralized control in 
+robotic systems II. SPIE. 1999;3839:246–57.
+19. Jayne BC. Kinematics of terrestrial snake locomotion. Copeia. 1986;1986(4):915–27.
+20. Marvi H, Bridges J, Hu DL. Snakes mimic earthworms: propulsion using rectilinear travelling waves. J R Soc Interface. 
+2013;10(84):20130188.
+21. Mnih V, Kavukcuoglu K, Silver D, Graves A, Antonoglou I, Wierstra D, Riedmiller M. Playing Atari with Deep Reinforcement 
+Learning. Proceedings of the 27th International Conference on Neural Information Processing Systems (NIPS 2015), pp. 
+1–9, 2015.
+22. Schulman J, Wolski F, Dhariwal P , Radford A, Klimov O. Proximal policy optimization algorithms. arXiv preprint, 2017. 2 
+Serpentine robot design.
+23. Sato M, Fukaya M, Iwasaki T. Serpentine locomotion with robotic snakes. IEEE Control Syst Mag. 2002;22(1):64–81.
+24. Tao Y, Tao H, Zhuang Z, Stojanovic V, Paszke W. Quantized iterative learning control of communication-constrained sys-
+tems with encoding and decoding mechanism. Trans Inst Meas Control. 2024;46(10):1943–54.
+25. Fallahnezhad MS, Qazvini E. Transactions of the institute of measurement and control. 2017: 1097–1103.
+26. Zhang Z et al. ADP-based prescribed-time control for nonlinear time-varying delay systems with uncertain parameters. 
+IEEE Trans Autom Sci Eng. 2024.
+27. Tao H, Zheng J, Wei J, Paszke W, Rogers E, Stojanovic V. Repetitive process based indirect-type iterative learning control for 
+batch processes with model uncertainty and input delay. J Process Control. 2023;132: 103112.
+28. Virgala I, Varga M, Sinčák PJ, Merva T, Mykhailyshyn R, Kelemen M. Mathematical framework for snake robot motion in a 
+confined space. Appl Math Model. 2024;132:22–40.
+29. Sang H, You Y, Sun X, Zhou Y. The hybrid path planning algorithm based on improved A* and artificial potential field for 
+unmanned surface vehicle formations. Ocean Eng. 2021;223–224:108709.
+30. Thanh HV, Quang VV. Experimental research on avoidance obstacle control for mobile robots using Q-learning (QL) and 
+deep Q-learning (DQL) algorithms in dynamic environments. Actuators. 2024;13(1):26.
+31. Qu H, Xing K, Takacs A. An improved genetic algorithm with co-evolutionary strategy for global path planning of multiple 
+mobile robots. Neurocomputing. 2013;120:509–517.
+32. Virgala I, Kelemen M, Prada E, Sukop M, Kot T, Bobovský Z, Varga M, Ferenčík P . A snake robot for locomotion in a pipe 
+using trapezium-like travelling wave. Mech Mach Theory. 2021;158: 104221.
+33. Elsayed BA, Takemori T, Tanaka M, Matsuno F. Mobile manipulation using a snake robot in a helical gait. IEEE/ASME Trans 
+Mechatron. 2021;27(5):2600–11.
+34. Takemori T, Tanaka M, Matsuno F. Hoop-passing motion for a snake robot to realize motion transition across different 
+environments. IEEE Trans Robot. 2021;37(5):1696–711.
+35. Chang L, Shan L, Jiang C, Dai Y. Reinforcement based mobile robot path planning with improved dynamic window 
+approach in unknown environment. Autonomous Robots. 2021;45(1):51–76. 10.1007/s10514-020-09947-4
+36. Montiel OH, Orozco-Rosas U, Sepúlveda RP . Path planning for mobile robots using bacterial potential field for avoiding 
+static and dynamic obstacles. Expert Syst Appl. 2015;42(12):5177–5191. 10.1016/j.eswa.2015.02.033.
+37. Takanashi T, Nakajima M, Takemori T, Tanaka M. Obstacle-aided locomotion of a snake robot using piecewise helixes. IEEE 
+Robot Autom Lett. 2022;7(4):10542–9.
+38. Syed UA, Kunwar F, Iqbal M. Guided autowave pulse coupled neural network (GAPCNN) based real time path planning 
+and an obstacle avoidance scheme for mobile robots. Robot Auton Syst. 2014;62(4):474–86.
+39. Qijie Z, Yue Z, Shihui L. A path planning algorithm based on RRT and SARSA (λ) in unknown and complex conditions. In 
+2020 Chinese Control And Decision Conference (CCDC). IEEE; 2020. pp. 2035–2040
+40. Kanada A, Takahashi R, Hayashi K, Hosaka R, Yukita W, Nakashima Y, Yokota T, Someya T, Kamezaki M, Kawahara Y, Yama-
+moto M. Joint-repositionable Inner-wireless planar snake robot. IEEE Robot Autom Lett. 2025.
+41. Li D, Deng H, Pan Z, Xiu Y. Collaborative obstacle avoidance algorithm of multiple bionic snake robots in fluid based on 
+IB-LBM. ISA Trans. 2022;122:271–80.
+42. Huang W, Guo X, Liu H, Fang Y. A robust model-based radius estimation approach for helical climbing motion of snake 
+robots. IEEE ASME Trans Mechatron. 2023;28(6):3284–93.
+43. Xiu Y, Li D, Deng H, Jiang S, Wu EQ. Path-following based on fuzzy line-of-sight guidance for a bionic snake robot with 
+unknowns. IEEE ASME Trans Mechatron. 2023;28(6):3167–79.
+44. Ji Z, Song G, Wang F, Li Y, Song A. Design and control of a snake robot with a gripper for inspection and maintenance in 
+narrow spaces. IEEE Robot Autom Lett. 2023;8(5):3086–93.
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
